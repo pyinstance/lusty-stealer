@@ -4,10 +4,10 @@ Due to constant Discord terminations I will not be making a new support server. 
   <h3>⭐ if you like Noxious Stealer<br></h3>
 </div>
 
-## Table
-:orange_circle: // Working On it
-:red_circle: // Not Done
-:green_circle: // Done
+## How to download
+## Join the discord server and get your free key
+## https://discord.gg/Mf6zPsWB
+
 
 
 ## Features
