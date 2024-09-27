@@ -5,12 +5,22 @@ Due to constant Discord terminations I will not be making a new support server. 
 </div>
 
 ## How to download
-## Join the discord server and get your free key
-## https://discord.gg/Mf6zPsWB
+Dm me on telegram the link is at the bottom of this Readme
+ill give you price you pay i give simpleas that this is a private stealer
+so you aint getting shit for free 
+
+<3
 
 
 
 ## Features
+
+- Specs
+  - Fully UD (Undetected) ✅
+  - AV Evasion (Antivirus Bypass) ✅
+  - VMC (Network Spreading through TCP) ✅
+  - Rootkit ✅
+  - Much More i cannot be asked to list
 
 -   Discord token info
     -   🟢 Nitro
@@ -65,8 +75,6 @@ Due to constant Discord terminations I will not be making a new support server. 
 
 <img src="https://i.imgur.com/KDriHPw.png">
 <img src="https://i.imgur.com/mdJhwZD.png">
-<img src="https://i.imgur.com/e2EVnNs.png">
 
 
--   Any Bugs Please Join the [Tele](https://t.me/+HyVCbHaErR1lYTlk)
--   Join the [Discord](https://discord.gg/fUeh4NhT)
+-   Any Bugs Please dm me here [Tele](https://t.me/pyinstance)
