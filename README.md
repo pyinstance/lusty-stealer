@@ -47,18 +47,18 @@ so you aint getting shit for free
 -    Anti Debug Features
      - 🟢 Anti Virus Total / Thanks to -> [6nz](https://github.com/6nz/virustotal-vm-blacklist)
      - 🟠 Anti Skid
-     -
+       
 -    Standard Features
-     - 🟠 Startup
-     - 🟠 Wallet Stealing
-     - 🟠 Spread
-     - 🟠 Webhook Protection
+     - 🟢 Startup
+     - 🟢 Wallet Stealing
+     - 🟢 Spread
+     - 🟢 Webhook Protection
   
 
 ## External Features To Add
 -    Things to come
-    - 🟠 Obfuscation ( Coming Soon )
-    - 🟠 Self Destruct 
+    - 🟢 Obfuscation ( Coming Soon )
+    - 🟢 Self Destruct 
 
 ### Prerequisites
 
